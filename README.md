@@ -1,4 +1,4 @@
-#Old Portfolio
+# Old Portfolio
 
 Hi, I'm Hriday Thakur, a B.Tech Computer Science student specializing in Artificial Intelligence at Bennett University. I am passionate about building innovative solutions that combine technology, creativity, and real-world impact.
 
